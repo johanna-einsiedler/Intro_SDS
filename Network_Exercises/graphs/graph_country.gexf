@@ -1,0 +1,1917 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-30">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="nickname" type="string" />
+      <attribute id="1" title="country" type="string" />
+      <attribute id="2" title="language" type="string" />
+      <attribute id="3" title="living_in_dk" type="string" />
+      <attribute id="4" title="age" type="long" />
+      <attribute id="5" title="study" type="string" />
+      <attribute id="6" title="gender" type="string" />
+      <attribute id="7" title="hobbies" type="string" />
+      <attribute id="8" title="operating" type="string" />
+      <attribute id="9" title="food" type="string" />
+      <attribute id="10" title="screen_time" type="string" />
+      <attribute id="11" title="expectations" type="string" />
+      <attribute id="12" title="decision" type="string" />
+      <attribute id="13" title="wake_up" type="long" />
+      <attribute id="14" title="social_media" type="string" />
+      <attribute id="15" title="character" type="string" />
+      <attribute id="16" title="genre" type="string" />
+      <attribute id="17" title="fries_cheese" type="string" />
+      <attribute id="18" title="dietary" type="string" />
+      <attribute id="19" title="streaming" type="string" />
+    </attributes>
+    <nodes>
+      <node id="mmm" label="mmm">
+        <attvalues>
+          <attvalue for="0" value="mmm" />
+          <attvalue for="1" value="argentina" />
+          <attvalue for="2" value="spanish " />
+          <attvalue for="3" value="&gt; 1 year" />
+          <attvalue for="4" value="32" />
+          <attvalue for="5" value="humanities" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="music, sports, reading " />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="pizza, pasta" />
+          <attvalue for="10" value="&lt; 2 hours" />
+          <attvalue for="11" value="learn more about data science " />
+          <attvalue for="12" value="i was looking for a career change " />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, twitter, instagram" />
+          <attvalue for="15" value="main character " />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="rpg" label="rpg">
+        <attvalues>
+          <attvalue for="0" value="rpg" />
+          <attvalue for="1" value="argentina" />
+          <attvalue for="2" value="spanish " />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="international affairs" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="tennis, music, reading" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="pasta, curry" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="to get to know new people and get familiarized with some basics of the msc program" />
+          <attvalue for="12" value="i have a passion for data. i previously worked with unhcr, where i supported countries in their data collection activities. i aim to keep working on improving statistics and data worldwide in order to inform policy making." />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, twitter, instagram" />
+          <attvalue for="15" value="myself (?)" />
+          <attvalue for="16" value="romance" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="robin" label="robin">
+        <attvalues>
+          <attvalue for="0" value="robin" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="business" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="tennis, badminton, movie" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="carrot, beef " />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="getting familiar with others" />
+          <attvalue for="12" value="improve my data analysis skills" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, weibo, snapchat, wechat, tencent qq" />
+          <attvalue for="15" value="iron man" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, netflix" />
+        </attvalues>
+      </node>
+      <node id="donna" label="donna">
+        <attvalues>
+          <attvalue for="0" value="donna" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese " />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="psychology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="dancing, running, reading " />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="fried chicken, curry " />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="get engaged in this school and the community " />
+          <attvalue for="12" value="interests in the application of data science in social sciences" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, twitter, instagram, discord, wechat, tencent qq" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="musical" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="summer" label="summer">
+        <attvalues>
+          <attvalue for="0" value="summer" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="social work" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="taking photos, singing, swimming" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="fried chips, ice cream" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="have a nice sleep" />
+          <attvalue for="12" value="i felt happy when the data result came when i was doing research." />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, weibo, wechat, tencent qq" />
+          <attvalue for="15" value="a pretty little dog in white" />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="bilibili" />
+        </attvalues>
+      </node>
+      <node id="blah" label="blah">
+        <attvalues>
+          <attvalue for="0" value="blah" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="business" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="sleep, eat, bake" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="chocolate, coke" />
+          <attvalue for="10" value="&gt; 10 hours" />
+          <attvalue for="11" value="fun" />
+          <attvalue for="12" value="because i like statistics, and i’m interested in sociology" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, twitter, instagram, weibo, wechat" />
+          <attvalue for="15" value="me." />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="chow" label="chow">
+        <attvalues>
+          <attvalue for="0" value="chow" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="mandarin" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="economics, business" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="swimming  ，running  ，listen music" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="hotpot，rice" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="what the program is" />
+          <attvalue for="12" value="i’m interested in it " />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, weibo, wechat, tencent qq" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="action" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="tencent video" />
+        </attvalues>
+      </node>
+      <node id="qian" label="qian">
+        <attvalues>
+          <attvalue for="0" value="qian" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="painting, badminton, reading" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="tofu, pasta" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="NaN" />
+          <attvalue for="12" value="i love sociology, especially the qualitative methods" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, twitter, instagram, weibo, wechat" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney" />
+        </attvalues>
+      </node>
+      <node id="clem" label="clem">
+        <attvalues>
+          <attvalue for="0" value="clem" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="humanities, economics" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="photography, writing, walking randomly online " />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="salmon, berries " />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="getting to know the classmates, know what we'll achieve and who to become at the end of the programme " />
+          <attvalue for="12" value="interested in the combination of all the social sciences and together with data science. data is amazing " />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, weibo, wechat" />
+          <attvalue for="15" value="amybeth mcnulty" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix, bilibili" />
+        </attvalues>
+      </node>
+      <node id="lois" label="lois">
+        <attvalues>
+          <attvalue for="0" value="lois" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="21" />
+          <attvalue for="5" value="public administration" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="dancing, singing, painting" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="potato chips, fried chicken " />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="adapt to data science environments" />
+          <attvalue for="12" value="it is useful and expand my ability to analyze " />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, twitter, instagram, wechat" />
+          <attvalue for="15" value="sheldon " />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, netflix" />
+        </attvalues>
+      </node>
+      <node id="ramona " label="ramona ">
+        <attvalues>
+          <attvalue for="0" value="ramona " />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese " />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="international trade " />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="music running travel " />
+          <attvalue for="8" value="mac. and windows" />
+          <attvalue for="9" value="rice bread " />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="everything " />
+          <attvalue for="12" value="interests" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="weibo, wechat, tencent qq" />
+          <attvalue for="15" value="tom" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="claire" label="claire">
+        <attvalues>
+          <attvalue for="0" value="claire" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="mandain" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="population studies" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="making handicrafts, jogging, watching movies" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="caesar salad, kong paid chicken, bologna spaghettini " />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="basic programming skills, mingle with fellow students, get familiar with the campus" />
+          <attvalue for="12" value="i used to major in population studies. the data was limited to registered data and survey. i think this program could empower me to explore the rules of population development with more sufficient material. " />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, twitter, instagram, weibo, wechat, tencent qq" />
+          <attvalue for="15" value="?" />
+          <attvalue for="16" value="sci-fi" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="tencent" />
+        </attvalues>
+      </node>
+      <node id="wendian" label="wendian">
+        <attvalues>
+          <attvalue for="0" value="wendian" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="chinese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="making new friends, hiking, rock climbing" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="chinese hot pot, noodles" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="make some friends" />
+          <attvalue for="12" value="NaN" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="instagram, discord, wechat" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="bilibili" />
+        </attvalues>
+      </node>
+      <node id="emk" label="emk">
+        <attvalues>
+          <attvalue for="0" value="emk" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology, political science, psychology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="cooking, reading, puzzling" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="summer rolls, banana bread" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="getting to know fellow students and settling into uni" />
+          <attvalue for="12" value="i like the combination of programming/statistics and social sciences" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, snapchat" />
+          <attvalue for="15" value="the underestimated side character" />
+          <attvalue for="16" value="western" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="vegan" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="l" label="l">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german/danish" />
+          <attvalue for="3" value="&gt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="political science, economics, business" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="rowing,crossfit,running" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="lasagna,pasta,pizza,kimchi" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="a good introduction to the prgram and a lot of socializing" />
+          <attvalue for="12" value="develop extensive data science skills and in-depth knowledge of methods for political science, economic, and business" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, reddit" />
+          <attvalue for="15" value="leonardo dicaprio" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="lippi" label="lippi">
+        <attvalues>
+          <attvalue for="0" value="lippi" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german " />
+          <attvalue for="3" value="&gt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="sociology, political science, economics" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="travelling, gym, soccer " />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="sushi, burger" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="meeting nice people and feeling welcomed " />
+          <attvalue for="12" value="wanted to deepen my technical knowledge to analyse and use data" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, snapchat, discord, twitch" />
+          <attvalue for="15" value="don’t know " />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="mick" label="mick">
+        <attvalues>
+          <attvalue for="0" value="mick" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="psychology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="surfing, basketball, reading " />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="lasagne, pancakes" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="getting to know the people and the program" />
+          <attvalue for="12" value="a strong quantitive education is important in many jobs " />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, snapchat, discord" />
+          <attvalue for="15" value="hugh jackman " />
+          <attvalue for="16" value="musical" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="helloworld" label="helloworld">
+        <attvalues>
+          <attvalue for="0" value="helloworld" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="sociology, gender studies " />
+          <attvalue for="6" value="prefer not to disclose" />
+          <attvalue for="7" value="kayaking, biking, table soccer" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="lasagne, wraps" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="nothing in particular " />
+          <attvalue for="12" value="i like the intersection of society and data" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="sds-student-2" label="sds-student-2">
+        <attvalues>
+          <attvalue for="0" value="sds-student-2" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="sociology, political science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="snowboarding,surfing,reading" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="pizza,pasta" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="to meet all other students and to get already an overview about the program." />
+          <attvalue for="12" value="i would like to improve my skills in the field of data science " />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="facebook, instagram, snapchat" />
+          <attvalue for="15" value="matthew mcconaughey" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, netflix, appletv+" />
+        </attvalues>
+      </node>
+      <node id="captain crunch" label="captain crunch">
+        <attvalues>
+          <attvalue for="0" value="captain crunch" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="27" />
+          <attvalue for="5" value="political science, economics" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="cycling, graphical design, coding" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="sushi, ramen" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="a well-rounded set-up of everything relevant" />
+          <attvalue for="12" value="the intersection between data science and political science interests me" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, twitter, instagram, reddit, snapchat" />
+          <attvalue for="15" value="the side character who keeps the protagonist from falling off a cliff" />
+          <attvalue for="16" value="thriller" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="1234" label="1234">
+        <attvalues>
+          <attvalue for="0" value="1234" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="economics" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="gym, theatre, reading" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="sushi, salad" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="getting to know my colleagues" />
+          <attvalue for="12" value="because of the interdisciplinary approach " />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value=" , , " />
+          <attvalue for="15" value="me" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="lorrie" label="lorrie">
+        <attvalues>
+          <attvalue for="0" value="lorrie" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="sociology, political science, economics, law" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="hiking, cycling, party" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="pizza, salad" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="NaN" />
+          <attvalue for="12" value="NaN" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="reddit, discord" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="boo" label="boo">
+        <attvalues>
+          <attvalue for="0" value="boo" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="27" />
+          <attvalue for="5" value="hispanic studies" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="rock climbing, reading, knitting" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="mac &amp; cheese, pb&amp;j" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="a strong introduction for the next two years" />
+          <attvalue for="12" value="to gain the skills and knowledge necessary to be an educational data scientist" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, tiktok, snapchat" />
+          <attvalue for="15" value="abbi jacobsen" />
+          <attvalue for="16" value="romance" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, disney, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="nick c." label="nick c.">
+        <attvalues>
+          <attvalue for="0" value="nick c." />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&gt; 1 year" />
+          <attvalue for="4" value="30" />
+          <attvalue for="5" value="political science, economics" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="photography, bouldering, cats" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="peanut butter, ramen" />
+          <attvalue for="10" value="&lt; 2 hours" />
+          <attvalue for="11" value="to learn about the course and meet my peers" />
+          <attvalue for="12" value="i like data. i like social science. i like copenhagen." />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="facebook, instagram, reddit" />
+          <attvalue for="15" value="james franco" />
+          <attvalue for="16" value="romance" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="hbo, kanopy" />
+        </attvalues>
+      </node>
+      <node id="kcl136" label="kcl136">
+        <attvalues>
+          <attvalue for="0" value="kcl136" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="34" />
+          <attvalue for="5" value="international relations" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="singing, languages, fitness" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="sushi, pasta" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="get familiar with expectations, feel prepared, good relationships with classmates" />
+          <attvalue for="12" value="i love quantitative research and care about social issues; sds is expanding what social science research can accomplish." />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, pintrest, reddit" />
+          <attvalue for="15" value="will smith" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="sr" label="sr">
+        <attvalues>
+          <attvalue for="0" value="sr" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="skiing, tennis, reading" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="mushroom risotto, paella, omakase " />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="an overview of the curriculum and expectations for the following semester and full program" />
+          <attvalue for="12" value="i’m interested in improving medical technology and access to care through aggregating and analyzing applicable data on health care users" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, twitter, instagram, tiktok, pintrest, reddit, snapchat" />
+          <attvalue for="15" value="nobody; it would be a comedic documentary " />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, disney, hbo, netflix, peacock, hulu, apple tv " />
+        </attvalues>
+      </node>
+      <node id="catgirl927" label="catgirl927">
+        <attvalues>
+          <attvalue for="0" value="catgirl927" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="27" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="yoga, photography, hiking" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="chicken tikka masala, mac and cheese, thai drunken noodles" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="i expect to meet the rest of the cohort and be introduced to the structure and content of the program" />
+          <attvalue for="12" value="i would like to focus on the quantitative side of public policy research in order to pursue environmental policy work as a career shift" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, reddit" />
+          <attvalue for="15" value="american girl moves abroad" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, netflix" />
+        </attvalues>
+      </node>
+      <node id="564294618204702" label="564294618204702">
+        <attvalues>
+          <attvalue for="0" value="564294618204702" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="humanities, economics" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="tennis,reading,running" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="pizza,pad thai" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="lots of information" />
+          <attvalue for="12" value="i liked the balance between qualitative and quantitative analysis" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="facebook, instagram, discord" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="willoven" label="willoven">
+        <attvalues>
+          <attvalue for="0" value="willoven" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="32" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="climbing, dungeon and dragons, programming" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="spaghetti cabonara, lasagne" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="to meet the other students" />
+          <attvalue for="12" value="i like programming and i am interested to learn about the digitization of the society and the consequencess of it" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, reddit, discord" />
+          <attvalue for="15" value="michael cera" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo" />
+        </attvalues>
+      </node>
+      <node id="snoopy" label="snoopy">
+        <attvalues>
+          <attvalue for="0" value="snoopy" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="nature, spinning, honey" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="butter paneer, fish tacos " />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="lots of new impressions " />
+          <attvalue for="12" value="interesting " />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, tiktok" />
+          <attvalue for="15" value="dakota fanning" />
+          <attvalue for="16" value="mockumentary" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="disney, hbo, netflix, viaplay, tv2 play" />
+        </attvalues>
+      </node>
+      <node id="bob1" label="bob1">
+        <attvalues>
+          <attvalue for="0" value="bob1" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="psychology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="combat sports, music, cooking" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="game, curry" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="getting to know people, introduction to data science, and meeting faculty" />
+          <attvalue for="12" value="to gain new tools and methods for developing my existing knowledge" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, reddit, snapchat" />
+          <attvalue for="15" value="myself" />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, netflix" />
+        </attvalues>
+      </node>
+      <node id="trille" label="trille">
+        <attvalues>
+          <attvalue for="0" value="trille" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="knitting, greening, kayaking" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="pasta, fish" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="getting to know my new class mates" />
+          <attvalue for="12" value="to learn programming" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, pintrest, bereal" />
+          <attvalue for="15" value="cameron diaz" />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="🌻" label="🌻">
+        <attvalues>
+          <attvalue for="0" value="🌻" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="engineering and computer science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="cooking, coffee, creative coding" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="soudough w coffee, vindaloo" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="get to know new people" />
+          <attvalue for="12" value="found it an interesting field, and a good combination with my bachelors" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, twitter, instagram, tiktok, snapchat, signal" />
+          <attvalue for="15" value="old man at the end, looking back on younger me" />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo, netflix, tv2 play, dr" />
+        </attvalues>
+      </node>
+      <node id="sollid" label="sollid">
+        <attvalues>
+          <attvalue for="0" value="sollid" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="climate activism, fitness, music" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="dried deer meat, ramen" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="getting used to studying again" />
+          <attvalue for="12" value="become a better programmer" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="facebook, twitter, instagram, tiktok, reddit, snapchat" />
+          <attvalue for="15" value="myself" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="doctor jones" label="doctor jones">
+        <attvalues>
+          <attvalue for="0" value="doctor jones" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="boardgames,going for a walk,hanging out with my friends" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="lasagne,sushi" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="to get new friends and learn about the msc" />
+          <attvalue for="12" value="i wanted to work more with data analysis" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, discord" />
+          <attvalue for="15" value="idk" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="krise kross" label="krise kross">
+        <attvalues>
+          <attvalue for="0" value="krise kross" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="economics, anthropology, business" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="gym, friends, sleeping" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="lasagna, rye bread" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="to get to know my fellow students and the campus" />
+          <attvalue for="12" value="i want to explore how data can be used as a mean to uncover, understand and explain social phenomena" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, pintrest, snapchat" />
+          <attvalue for="15" value="the fun sidekick" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="jjk" label="jjk">
+        <attvalues>
+          <attvalue for="0" value="jjk" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="chess, climbing, guitar" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="falafel, moussaka " />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="fun" />
+          <attvalue for="12" value="interest in statistics and wanting to learn new methods" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, reddit" />
+          <attvalue for="15" value="timothée chalamet" />
+          <attvalue for="16" value="musical" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="i win" label="i win">
+        <attvalues>
+          <attvalue for="0" value="i win" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="camping, running, cooking" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value=" , , " />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="NaN" />
+          <attvalue for="12" value="data is nice" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="mockumentary" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="anaconda" label="anaconda">
+        <attvalues>
+          <attvalue for="0" value="anaconda" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="10-20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="piano, reading, watersports" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="salad, berries" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="to get to know my fellow students and to become ready for the beginning of the semester" />
+          <attvalue for="12" value="the mix of technical and social science skills" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram" />
+          <attvalue for="15" value="josephine langford" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="amazon prime, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="joe" label="joe">
+        <attvalues>
+          <attvalue for="0" value="joe" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="working out, reading, walks" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="butter chicken, spaghetti" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="introduction to the basic ideas behind python" />
+          <attvalue for="12" value="job possibilities" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="facebook, twitter, reddit, snapchat, wechat" />
+          <attvalue for="15" value="quentin tarantino" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="mr johnson " label="mr johnson ">
+        <attvalues>
+          <attvalue for="0" value="mr johnson " />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="skating, reading, music " />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value=" , , " />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="fun times and and learning more about the programme." />
+          <attvalue for="12" value="interest in culture and digitalization" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, twitter, instagram, reddit" />
+          <attvalue for="15" value="clint eastwood " />
+          <attvalue for="16" value="western" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="skov" label="skov">
+        <attvalues>
+          <attvalue for="0" value="skov" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="sociology, educational science" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="crossfit, drinks, dog-walking" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="salmon-lasagna, paella" />
+          <attvalue for="10" value="&lt; 2 hours" />
+          <attvalue for="11" value="expect it to make me feel somewhat comfortable with the master - both socially and academically " />
+          <attvalue for="12" value="i find educational technology exciting " />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, snapchat" />
+          <attvalue for="15" value="the main character" />
+          <attvalue for="16" value="romance" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="kesi" label="kesi">
+        <attvalues>
+          <attvalue for="0" value="kesi" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="golf, music, reading" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="pasta, butter chicken" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="encouragement" />
+          <attvalue for="12" value="to become a hybrid professional" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, tiktok" />
+          <attvalue for="15" value="sylvester stallone" />
+          <attvalue for="16" value="mockumentary" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="blib" label="blib">
+        <attvalues>
+          <attvalue for="0" value="blib" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="sociology, anthropology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="hanging out with friends, painting, going for a run" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value=" , , " />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="to get to know people from the course " />
+          <attvalue for="12" value="i enjoying working with data" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="🥴" label="🥴">
+        <attvalues>
+          <attvalue for="0" value="🥴" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="reading, thai boxing, music/concerts" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="shellfish, tomatoes " />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="getting to know the course and the students" />
+          <attvalue for="12" value="i find working with data science very satisfying, and i am interested in social sciences and the kinds of questions they can answer" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, whatsapp" />
+          <attvalue for="15" value="friend of the protagonist? " />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="tyuio" label="tyuio">
+        <attvalues>
+          <attvalue for="0" value="tyuio" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="cognitive science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="reading, cooking, games" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="ravioli, cashew wok, pasta allo scoglio" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="getting to know the other students, introduction to the campus, it etc., some fun activities ☀️☀️" />
+          <attvalue for="12" value="the interdisciplinary approach sounded interesting, it’s more focused than the cognitive science candidate, we had social and cultural dynamics which i really liked and this masters sounded like an extension of that course" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, twitter, snapchat" />
+          <attvalue for="15" value="no" />
+          <attvalue for="16" value="romance" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="tv2, plex" />
+        </attvalues>
+      </node>
+      <node id="481" label="481">
+        <attvalues>
+          <attvalue for="0" value="481" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&gt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="humanities, business" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="swimming, browsing the internet, singing" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="sushi, noodles" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="make new friends and learn more about the program" />
+          <attvalue for="12" value="i wanted to do something other than what i did during my bachelors" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram" />
+          <attvalue for="15" value="main character" />
+          <attvalue for="16" value="musical" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, netflix" />
+        </attvalues>
+      </node>
+      <node id="firstname lastname" label="firstname lastname">
+        <attvalues>
+          <attvalue for="0" value="firstname lastname" />
+          <attvalue for="1" value="denmark" />
+          <attvalue for="2" value="danish" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="board gaming, programming, storytelling" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="risengrød, pizza" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="getting a deeper understanding of the program as well as great tips in regards to gain the most benefit for being part of it." />
+          <attvalue for="12" value="interest in patterns, behavior and problem solving." />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, reddit" />
+          <attvalue for="15" value="the director" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="alexiejow" label="alexiejow">
+        <attvalues>
+          <attvalue for="0" value="alexiejow" />
+          <attvalue for="1" value="poland" />
+          <attvalue for="2" value="polish" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="media and communication" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="sailing, basketball, hackathons" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="spaghetti carbonara, hawaiian pizza" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="python basics, expectations of my own preparation, helpful readings" />
+          <attvalue for="12" value="wanted to combine social sciences background with digital tools for problemsolving" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, reddit, discord" />
+          <attvalue for="15" value="the annoying sidekick" />
+          <attvalue for="16" value="mockumentary" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="sania" label="sania">
+        <attvalues>
+          <attvalue for="0" value="sania" />
+          <attvalue for="1" value="poland" />
+          <attvalue for="2" value="polish" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="horse riding, sewing, fashion " />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="fries, lecho " />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="learning more about school life " />
+          <attvalue for="12" value="last year " />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, pintrest" />
+          <attvalue for="15" value="kate hudson " />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="amazon prime, disney, hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="fangorn" label="fangorn">
+        <attvalues>
+          <attvalue for="0" value="fangorn" />
+          <attvalue for="1" value="hungary" />
+          <attvalue for="2" value="hungarian " />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="economics, business, international relations" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="hiking, photography, travelling " />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="apple, lasagne " />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="to get to know my cohort and what to expect in the coming 2 years. also, i expect it to fuel my motivation for the upcoming semester. " />
+          <attvalue for="12" value="i don't know yet what topic i would like to specialise in, but i know i love research, analysing different things and that i enjoy programming. i therefore believe that the skills provided by the course will give me the best opportunities" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, instagram, bereal" />
+          <attvalue for="15" value="groot" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="salt" label="salt">
+        <attvalues>
+          <attvalue for="0" value="salt" />
+          <attvalue for="1" value="hungary" />
+          <attvalue for="2" value="hungarian" />
+          <attvalue for="3" value="&gt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="sociology, webdevelopment" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="gardening, cooking, running" />
+          <attvalue for="8" value="linux" />
+          <attvalue for="9" value="fish&amp;chips, vegetable soup" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="get to know people and information on the expectations" />
+          <attvalue for="12" value="because interdisciplinary sciences are the future. " />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram, pintrest" />
+          <attvalue for="15" value="emma watson" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="pasketarian" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="bean" label="bean">
+        <attvalues>
+          <attvalue for="0" value="bean" />
+          <attvalue for="1" value="india" />
+          <attvalue for="2" value="hindi" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="21" />
+          <attvalue for="5" value="business, analytics " />
+          <attvalue for="6" value="prefer not to disclose" />
+          <attvalue for="7" value=" , , " />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value=" , , " />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="NaN" />
+          <attvalue for="12" value="finding solutions in hidden sight" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="facebook, instagram, tiktok, reddit, snapchat, discord" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="NaN" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime" />
+        </attvalues>
+      </node>
+      <node id="miji" label="miji">
+        <attvalues>
+          <attvalue for="0" value="miji" />
+          <attvalue for="1" value="austria" />
+          <attvalue for="2" value="german" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="anthropology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="swimming, crocheting, dancing" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="pasta, chocolate cake" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="fun and information " />
+          <attvalue for="12" value="interested in ai ethics " />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="instagram, pintrest, reddit, snapchat, youtube " />
+          <attvalue for="15" value="gmundl" />
+          <attvalue for="16" value="avant-garde / experimental" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="peter" label="peter">
+        <attvalues>
+          <attvalue for="0" value="peter" />
+          <attvalue for="1" value="bosnia and herzegovina" />
+          <attvalue for="2" value="bosnian" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="diving - listening to music - gaming" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="sushi - greek salad" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="to get to know people in my class and know more about my studies" />
+          <attvalue for="12" value="the collection, analysis and interpretetion of data through new digital growing methods" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="facebook, instagram, reddit, snapchat, discord, twitch" />
+          <attvalue for="15" value="a diver exploring the depths of the ocean" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="mialfo61" label="mialfo61">
+        <attvalues>
+          <attvalue for="0" value="mialfo61" />
+          <attvalue for="1" value="colombia" />
+          <attvalue for="2" value="spanish" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="statistics" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="sing, bike, watch soccer" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="ajiaco, chicken" />
+          <attvalue for="10" value="&lt; 2 hours" />
+          <attvalue for="11" value="know people" />
+          <attvalue for="12" value="to emphasize in one branch of data science. " />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="facebook, twitter, instagram, pintrest" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="adventure" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="hbo, netflix" />
+        </attvalues>
+      </node>
+      <node id="lu" label="lu">
+        <attvalues>
+          <attvalue for="0" value="lu" />
+          <attvalue for="1" value="croatia" />
+          <attvalue for="2" value="croatian " />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="dancing, making candles, painting" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="pasta with truffles and pizza" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="the introduction to this programme" />
+          <attvalue for="12" value="i wanted to study something that is connected to sociology and data science" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="facebook, twitter, instagram, tiktok" />
+          <attvalue for="15" value="uma thurman" />
+          <attvalue for="16" value="sci-fi" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="bob2" label="bob2">
+        <attvalues>
+          <attvalue for="0" value="bob2" />
+          <attvalue for="1" value="australia" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="sociology" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="swimming,baking,running" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="ramen,pasta" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="to meet cohort and get more familiar with the course" />
+          <attvalue for="12" value="interested to develop my skills in the data science space" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, tiktok" />
+          <attvalue for="15" value="emma stone" />
+          <attvalue for="16" value="mockumentary" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="coco" label="coco">
+        <attvalues>
+          <attvalue for="0" value="coco" />
+          <attvalue for="1" value="norway" />
+          <attvalue for="2" value="norwegian" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="sociology, economics" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="music, socializing, boardgames" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="lasagne, pizza, pasta" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="to have fun and get new friends" />
+          <attvalue for="12" value="diverse program, interesting, want to learn coding thoroughly " />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, snapchat, discord, bereal, whatsapp" />
+          <attvalue for="15" value="the main character" />
+          <attvalue for="16" value="musical" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="disney, hbo, netflix, viaplay, discovery +, nrktv" />
+        </attvalues>
+      </node>
+      <node id=" abcdefg" label=" abcdefg">
+        <attvalues>
+          <attvalue for="0" value=" abcdefg" />
+          <attvalue for="1" value="russia" />
+          <attvalue for="2" value="russian" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="sociology, political science" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="bachata, photography, urban studies " />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="cezar salad, risotto " />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="basic information about the organisational structure, getting to know each other " />
+          <attvalue for="12" value="desire to deepen my knowledge using programming for analysing data within social sciences " />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="facebook, instagram, pintrest, snapchat, discord" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="nici" label="nici">
+        <attvalues>
+          <attvalue for="0" value="nici" />
+          <attvalue for="1" value="switzerland" />
+          <attvalue for="2" value="french" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="political science, economics" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="acting, dancing, food" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="mezze, cheese" />
+          <attvalue for="10" value="2 - 4 hours" />
+          <attvalue for="11" value="getting to know the other students and understand the structure of the master" />
+          <attvalue for="12" value="i enjoy coding" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="instagram" />
+          <attvalue for="15" value="julia garner" />
+          <attvalue for="16" value="musical" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="chilly" label="chilly">
+        <attvalues>
+          <attvalue for="0" value="chilly" />
+          <attvalue for="1" value="united kingdom" />
+          <attvalue for="2" value="english" />
+          <attvalue for="3" value="&gt;20 years" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="economics" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="cooking, listening to music, walking" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="steak tartare, saag paneer" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="lots of information" />
+          <attvalue for="12" value="wanted to expand my knowledge of coding and combine it with the economic theory i have already learnt, and apply this the interesting questions " />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, twitter, instagram, tiktok, snapchat, whatsapp " />
+          <attvalue for="15" value="emma watson" />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="amazon prime, disney, netflix" />
+        </attvalues>
+      </node>
+      <node id="blue goose" label="blue goose">
+        <attvalues>
+          <attvalue for="0" value="blue goose" />
+          <attvalue for="1" value="iceland" />
+          <attvalue for="2" value="icelandic" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="gaming, watching tv, wikipedia deep dives" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="grilled chicken, cereal" />
+          <attvalue for="10" value="8 - 10 hours" />
+          <attvalue for="11" value="bettwr understanding of what to expect in the program" />
+          <attvalue for="12" value="it seemed both modern and relevant to my interests" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="facebook, twitter, instagram, reddit, snapchat, discord" />
+          <attvalue for="15" value="timothee chalamet" />
+          <attvalue for="16" value="mockumentary" />
+          <attvalue for="17" value="mac-n-cheese for hair" />
+          <attvalue for="18" value="gluten-free" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="pikpes" label="pikpes">
+        <attvalues>
+          <attvalue for="0" value="pikpes" />
+          <attvalue for="1" value="indonesia" />
+          <attvalue for="2" value="bahasa indonesia" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="running, exploring new places, hosting people" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="buddha bowl, poke" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="familiar with the course structure, learn study culture, and meet new friends" />
+          <attvalue for="12" value="i am interested in combining quantitative and qualitative data for decision-making processes in public sector. however, i need more time to explore methodologies in quantitative approach. so, i decide to take msc in sds." />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="facebook, instagram, pintrest" />
+          <attvalue for="15" value="NaN" />
+          <attvalue for="16" value="sci-fi" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="vegetarian" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="sg" label="sg">
+        <attvalues>
+          <attvalue for="0" value="sg" />
+          <attvalue for="1" value="turkey" />
+          <attvalue for="2" value="turkish" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="29" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="woman" />
+          <attvalue for="7" value="social latin dances, traveling, reading" />
+          <attvalue for="8" value="mac" />
+          <attvalue for="9" value="french fries, green beans" />
+          <attvalue for="10" value="4 - 6 hours" />
+          <attvalue for="11" value="to get information about the program, ku system and to meet fellow students" />
+          <attvalue for="12" value="with my interest to combine education and data science " />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="facebook, twitter, instagram, snapchat" />
+          <attvalue for="15" value="jennifer lawrence " />
+          <attvalue for="16" value="comedy" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+      <node id="pythoneer" label="pythoneer">
+        <attvalues>
+          <attvalue for="0" value="pythoneer" />
+          <attvalue for="1" value="brazil" />
+          <attvalue for="2" value="portuguese" />
+          <attvalue for="3" value="&lt; 1 year" />
+          <attvalue for="4" value="35" />
+          <attvalue for="5" value="political science" />
+          <attvalue for="6" value="man" />
+          <attvalue for="7" value="board games, reading, going out" />
+          <attvalue for="8" value="windows" />
+          <attvalue for="9" value="feijoada" />
+          <attvalue for="10" value="6 - 8 hours" />
+          <attvalue for="11" value="start coding already" />
+          <attvalue for="12" value="to apply machine learning to political surveys" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="facebook, instagram" />
+          <attvalue for="15" value="the scholar" />
+          <attvalue for="16" value="drama" />
+          <attvalue for="17" value="fries / chips for teeth" />
+          <attvalue for="18" value="none" />
+          <attvalue for="19" value="netflix" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="mmm" target="rpg" id="0" />
+      <edge source="robin" target="donna" id="1" />
+      <edge source="robin" target="summer" id="2" />
+      <edge source="robin" target="blah" id="3" />
+      <edge source="robin" target="chow" id="4" />
+      <edge source="robin" target="qian" id="5" />
+      <edge source="robin" target="clem" id="6" />
+      <edge source="robin" target="lois" id="7" />
+      <edge source="robin" target="ramona " id="8" />
+      <edge source="robin" target="claire" id="9" />
+      <edge source="robin" target="wendian" id="10" />
+      <edge source="donna" target="summer" id="11" />
+      <edge source="donna" target="blah" id="12" />
+      <edge source="donna" target="chow" id="13" />
+      <edge source="donna" target="qian" id="14" />
+      <edge source="donna" target="clem" id="15" />
+      <edge source="donna" target="lois" id="16" />
+      <edge source="donna" target="ramona " id="17" />
+      <edge source="donna" target="claire" id="18" />
+      <edge source="donna" target="wendian" id="19" />
+      <edge source="summer" target="blah" id="20" />
+      <edge source="summer" target="chow" id="21" />
+      <edge source="summer" target="qian" id="22" />
+      <edge source="summer" target="clem" id="23" />
+      <edge source="summer" target="lois" id="24" />
+      <edge source="summer" target="ramona " id="25" />
+      <edge source="summer" target="claire" id="26" />
+      <edge source="summer" target="wendian" id="27" />
+      <edge source="blah" target="chow" id="28" />
+      <edge source="blah" target="qian" id="29" />
+      <edge source="blah" target="clem" id="30" />
+      <edge source="blah" target="lois" id="31" />
+      <edge source="blah" target="ramona " id="32" />
+      <edge source="blah" target="claire" id="33" />
+      <edge source="blah" target="wendian" id="34" />
+      <edge source="chow" target="qian" id="35" />
+      <edge source="chow" target="clem" id="36" />
+      <edge source="chow" target="lois" id="37" />
+      <edge source="chow" target="ramona " id="38" />
+      <edge source="chow" target="claire" id="39" />
+      <edge source="chow" target="wendian" id="40" />
+      <edge source="qian" target="clem" id="41" />
+      <edge source="qian" target="lois" id="42" />
+      <edge source="qian" target="ramona " id="43" />
+      <edge source="qian" target="claire" id="44" />
+      <edge source="qian" target="wendian" id="45" />
+      <edge source="clem" target="lois" id="46" />
+      <edge source="clem" target="ramona " id="47" />
+      <edge source="clem" target="claire" id="48" />
+      <edge source="clem" target="wendian" id="49" />
+      <edge source="lois" target="ramona " id="50" />
+      <edge source="lois" target="claire" id="51" />
+      <edge source="lois" target="wendian" id="52" />
+      <edge source="ramona " target="claire" id="53" />
+      <edge source="ramona " target="wendian" id="54" />
+      <edge source="claire" target="wendian" id="55" />
+      <edge source="emk" target="l" id="56" />
+      <edge source="emk" target="lippi" id="57" />
+      <edge source="emk" target="mick" id="58" />
+      <edge source="emk" target="helloworld" id="59" />
+      <edge source="emk" target="sds-student-2" id="60" />
+      <edge source="emk" target="captain crunch" id="61" />
+      <edge source="emk" target="1234" id="62" />
+      <edge source="emk" target="lorrie" id="63" />
+      <edge source="l" target="lippi" id="64" />
+      <edge source="l" target="mick" id="65" />
+      <edge source="l" target="helloworld" id="66" />
+      <edge source="l" target="sds-student-2" id="67" />
+      <edge source="l" target="captain crunch" id="68" />
+      <edge source="l" target="1234" id="69" />
+      <edge source="l" target="lorrie" id="70" />
+      <edge source="lippi" target="mick" id="71" />
+      <edge source="lippi" target="helloworld" id="72" />
+      <edge source="lippi" target="sds-student-2" id="73" />
+      <edge source="lippi" target="captain crunch" id="74" />
+      <edge source="lippi" target="1234" id="75" />
+      <edge source="lippi" target="lorrie" id="76" />
+      <edge source="mick" target="helloworld" id="77" />
+      <edge source="mick" target="sds-student-2" id="78" />
+      <edge source="mick" target="captain crunch" id="79" />
+      <edge source="mick" target="1234" id="80" />
+      <edge source="mick" target="lorrie" id="81" />
+      <edge source="helloworld" target="sds-student-2" id="82" />
+      <edge source="helloworld" target="captain crunch" id="83" />
+      <edge source="helloworld" target="1234" id="84" />
+      <edge source="helloworld" target="lorrie" id="85" />
+      <edge source="sds-student-2" target="captain crunch" id="86" />
+      <edge source="sds-student-2" target="1234" id="87" />
+      <edge source="sds-student-2" target="lorrie" id="88" />
+      <edge source="captain crunch" target="1234" id="89" />
+      <edge source="captain crunch" target="lorrie" id="90" />
+      <edge source="1234" target="lorrie" id="91" />
+      <edge source="boo" target="nick c." id="92" />
+      <edge source="boo" target="kcl136" id="93" />
+      <edge source="boo" target="sr" id="94" />
+      <edge source="boo" target="catgirl927" id="95" />
+      <edge source="boo" target="564294618204702" id="96" />
+      <edge source="nick c." target="kcl136" id="97" />
+      <edge source="nick c." target="sr" id="98" />
+      <edge source="nick c." target="catgirl927" id="99" />
+      <edge source="nick c." target="564294618204702" id="100" />
+      <edge source="kcl136" target="sr" id="101" />
+      <edge source="kcl136" target="catgirl927" id="102" />
+      <edge source="kcl136" target="564294618204702" id="103" />
+      <edge source="sr" target="catgirl927" id="104" />
+      <edge source="sr" target="564294618204702" id="105" />
+      <edge source="catgirl927" target="564294618204702" id="106" />
+      <edge source="willoven" target="snoopy" id="107" />
+      <edge source="willoven" target="bob1" id="108" />
+      <edge source="willoven" target="trille" id="109" />
+      <edge source="willoven" target="🌻" id="110" />
+      <edge source="willoven" target="sollid" id="111" />
+      <edge source="willoven" target="doctor jones" id="112" />
+      <edge source="willoven" target="krise kross" id="113" />
+      <edge source="willoven" target="jjk" id="114" />
+      <edge source="willoven" target="i win" id="115" />
+      <edge source="willoven" target="anaconda" id="116" />
+      <edge source="willoven" target="joe" id="117" />
+      <edge source="willoven" target="mr johnson " id="118" />
+      <edge source="willoven" target="skov" id="119" />
+      <edge source="willoven" target="kesi" id="120" />
+      <edge source="willoven" target="blib" id="121" />
+      <edge source="willoven" target="🥴" id="122" />
+      <edge source="willoven" target="tyuio" id="123" />
+      <edge source="willoven" target="481" id="124" />
+      <edge source="willoven" target="firstname lastname" id="125" />
+      <edge source="snoopy" target="bob1" id="126" />
+      <edge source="snoopy" target="trille" id="127" />
+      <edge source="snoopy" target="🌻" id="128" />
+      <edge source="snoopy" target="sollid" id="129" />
+      <edge source="snoopy" target="doctor jones" id="130" />
+      <edge source="snoopy" target="krise kross" id="131" />
+      <edge source="snoopy" target="jjk" id="132" />
+      <edge source="snoopy" target="i win" id="133" />
+      <edge source="snoopy" target="anaconda" id="134" />
+      <edge source="snoopy" target="joe" id="135" />
+      <edge source="snoopy" target="mr johnson " id="136" />
+      <edge source="snoopy" target="skov" id="137" />
+      <edge source="snoopy" target="kesi" id="138" />
+      <edge source="snoopy" target="blib" id="139" />
+      <edge source="snoopy" target="🥴" id="140" />
+      <edge source="snoopy" target="tyuio" id="141" />
+      <edge source="snoopy" target="481" id="142" />
+      <edge source="snoopy" target="firstname lastname" id="143" />
+      <edge source="bob1" target="trille" id="144" />
+      <edge source="bob1" target="🌻" id="145" />
+      <edge source="bob1" target="sollid" id="146" />
+      <edge source="bob1" target="doctor jones" id="147" />
+      <edge source="bob1" target="krise kross" id="148" />
+      <edge source="bob1" target="jjk" id="149" />
+      <edge source="bob1" target="i win" id="150" />
+      <edge source="bob1" target="anaconda" id="151" />
+      <edge source="bob1" target="joe" id="152" />
+      <edge source="bob1" target="mr johnson " id="153" />
+      <edge source="bob1" target="skov" id="154" />
+      <edge source="bob1" target="kesi" id="155" />
+      <edge source="bob1" target="blib" id="156" />
+      <edge source="bob1" target="🥴" id="157" />
+      <edge source="bob1" target="tyuio" id="158" />
+      <edge source="bob1" target="481" id="159" />
+      <edge source="bob1" target="firstname lastname" id="160" />
+      <edge source="trille" target="🌻" id="161" />
+      <edge source="trille" target="sollid" id="162" />
+      <edge source="trille" target="doctor jones" id="163" />
+      <edge source="trille" target="krise kross" id="164" />
+      <edge source="trille" target="jjk" id="165" />
+      <edge source="trille" target="i win" id="166" />
+      <edge source="trille" target="anaconda" id="167" />
+      <edge source="trille" target="joe" id="168" />
+      <edge source="trille" target="mr johnson " id="169" />
+      <edge source="trille" target="skov" id="170" />
+      <edge source="trille" target="kesi" id="171" />
+      <edge source="trille" target="blib" id="172" />
+      <edge source="trille" target="🥴" id="173" />
+      <edge source="trille" target="tyuio" id="174" />
+      <edge source="trille" target="481" id="175" />
+      <edge source="trille" target="firstname lastname" id="176" />
+      <edge source="🌻" target="sollid" id="177" />
+      <edge source="🌻" target="doctor jones" id="178" />
+      <edge source="🌻" target="krise kross" id="179" />
+      <edge source="🌻" target="jjk" id="180" />
+      <edge source="🌻" target="i win" id="181" />
+      <edge source="🌻" target="anaconda" id="182" />
+      <edge source="🌻" target="joe" id="183" />
+      <edge source="🌻" target="mr johnson " id="184" />
+      <edge source="🌻" target="skov" id="185" />
+      <edge source="🌻" target="kesi" id="186" />
+      <edge source="🌻" target="blib" id="187" />
+      <edge source="🌻" target="🥴" id="188" />
+      <edge source="🌻" target="tyuio" id="189" />
+      <edge source="🌻" target="481" id="190" />
+      <edge source="🌻" target="firstname lastname" id="191" />
+      <edge source="sollid" target="doctor jones" id="192" />
+      <edge source="sollid" target="krise kross" id="193" />
+      <edge source="sollid" target="jjk" id="194" />
+      <edge source="sollid" target="i win" id="195" />
+      <edge source="sollid" target="anaconda" id="196" />
+      <edge source="sollid" target="joe" id="197" />
+      <edge source="sollid" target="mr johnson " id="198" />
+      <edge source="sollid" target="skov" id="199" />
+      <edge source="sollid" target="kesi" id="200" />
+      <edge source="sollid" target="blib" id="201" />
+      <edge source="sollid" target="🥴" id="202" />
+      <edge source="sollid" target="tyuio" id="203" />
+      <edge source="sollid" target="481" id="204" />
+      <edge source="sollid" target="firstname lastname" id="205" />
+      <edge source="doctor jones" target="krise kross" id="206" />
+      <edge source="doctor jones" target="jjk" id="207" />
+      <edge source="doctor jones" target="i win" id="208" />
+      <edge source="doctor jones" target="anaconda" id="209" />
+      <edge source="doctor jones" target="joe" id="210" />
+      <edge source="doctor jones" target="mr johnson " id="211" />
+      <edge source="doctor jones" target="skov" id="212" />
+      <edge source="doctor jones" target="kesi" id="213" />
+      <edge source="doctor jones" target="blib" id="214" />
+      <edge source="doctor jones" target="🥴" id="215" />
+      <edge source="doctor jones" target="tyuio" id="216" />
+      <edge source="doctor jones" target="481" id="217" />
+      <edge source="doctor jones" target="firstname lastname" id="218" />
+      <edge source="krise kross" target="jjk" id="219" />
+      <edge source="krise kross" target="i win" id="220" />
+      <edge source="krise kross" target="anaconda" id="221" />
+      <edge source="krise kross" target="joe" id="222" />
+      <edge source="krise kross" target="mr johnson " id="223" />
+      <edge source="krise kross" target="skov" id="224" />
+      <edge source="krise kross" target="kesi" id="225" />
+      <edge source="krise kross" target="blib" id="226" />
+      <edge source="krise kross" target="🥴" id="227" />
+      <edge source="krise kross" target="tyuio" id="228" />
+      <edge source="krise kross" target="481" id="229" />
+      <edge source="krise kross" target="firstname lastname" id="230" />
+      <edge source="jjk" target="i win" id="231" />
+      <edge source="jjk" target="anaconda" id="232" />
+      <edge source="jjk" target="joe" id="233" />
+      <edge source="jjk" target="mr johnson " id="234" />
+      <edge source="jjk" target="skov" id="235" />
+      <edge source="jjk" target="kesi" id="236" />
+      <edge source="jjk" target="blib" id="237" />
+      <edge source="jjk" target="🥴" id="238" />
+      <edge source="jjk" target="tyuio" id="239" />
+      <edge source="jjk" target="481" id="240" />
+      <edge source="jjk" target="firstname lastname" id="241" />
+      <edge source="i win" target="anaconda" id="242" />
+      <edge source="i win" target="joe" id="243" />
+      <edge source="i win" target="mr johnson " id="244" />
+      <edge source="i win" target="skov" id="245" />
+      <edge source="i win" target="kesi" id="246" />
+      <edge source="i win" target="blib" id="247" />
+      <edge source="i win" target="🥴" id="248" />
+      <edge source="i win" target="tyuio" id="249" />
+      <edge source="i win" target="481" id="250" />
+      <edge source="i win" target="firstname lastname" id="251" />
+      <edge source="anaconda" target="joe" id="252" />
+      <edge source="anaconda" target="mr johnson " id="253" />
+      <edge source="anaconda" target="skov" id="254" />
+      <edge source="anaconda" target="kesi" id="255" />
+      <edge source="anaconda" target="blib" id="256" />
+      <edge source="anaconda" target="🥴" id="257" />
+      <edge source="anaconda" target="tyuio" id="258" />
+      <edge source="anaconda" target="481" id="259" />
+      <edge source="anaconda" target="firstname lastname" id="260" />
+      <edge source="joe" target="mr johnson " id="261" />
+      <edge source="joe" target="skov" id="262" />
+      <edge source="joe" target="kesi" id="263" />
+      <edge source="joe" target="blib" id="264" />
+      <edge source="joe" target="🥴" id="265" />
+      <edge source="joe" target="tyuio" id="266" />
+      <edge source="joe" target="481" id="267" />
+      <edge source="joe" target="firstname lastname" id="268" />
+      <edge source="mr johnson " target="skov" id="269" />
+      <edge source="mr johnson " target="kesi" id="270" />
+      <edge source="mr johnson " target="blib" id="271" />
+      <edge source="mr johnson " target="🥴" id="272" />
+      <edge source="mr johnson " target="tyuio" id="273" />
+      <edge source="mr johnson " target="481" id="274" />
+      <edge source="mr johnson " target="firstname lastname" id="275" />
+      <edge source="skov" target="kesi" id="276" />
+      <edge source="skov" target="blib" id="277" />
+      <edge source="skov" target="🥴" id="278" />
+      <edge source="skov" target="tyuio" id="279" />
+      <edge source="skov" target="481" id="280" />
+      <edge source="skov" target="firstname lastname" id="281" />
+      <edge source="kesi" target="blib" id="282" />
+      <edge source="kesi" target="🥴" id="283" />
+      <edge source="kesi" target="tyuio" id="284" />
+      <edge source="kesi" target="481" id="285" />
+      <edge source="kesi" target="firstname lastname" id="286" />
+      <edge source="blib" target="🥴" id="287" />
+      <edge source="blib" target="tyuio" id="288" />
+      <edge source="blib" target="481" id="289" />
+      <edge source="blib" target="firstname lastname" id="290" />
+      <edge source="🥴" target="tyuio" id="291" />
+      <edge source="🥴" target="481" id="292" />
+      <edge source="🥴" target="firstname lastname" id="293" />
+      <edge source="tyuio" target="481" id="294" />
+      <edge source="tyuio" target="firstname lastname" id="295" />
+      <edge source="481" target="firstname lastname" id="296" />
+      <edge source="alexiejow" target="sania" id="297" />
+      <edge source="fangorn" target="salt" id="298" />
+    </edges>
+  </graph>
+</gexf>
