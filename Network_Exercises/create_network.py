@@ -11,7 +11,7 @@ def create_network(df,attribute):
     df = df.applymap(lambda s:s.lower()if type(s)==str else s)
     
 
-    if attribute in ['hobbies','food','social_media']:
+    if attribute in ['hobbies','food','social_media','study']:
 
         # create Graph
         G = nx.Graph()
